@@ -1,0 +1,30 @@
+.logo{
+width: 45px;
+height: 45px;
+}
+h1{
+    color: aqua;
+}
+#kv{
+    width: 500px;
+    height: 400px;
+    background-color: #03e90a;
+}
+.Sarlavha{
+    color: aqua;
+}
+.italic{
+    font-style: italic;
+}
+.bald{
+    background-color: #05b4f9;
+};
+.bgc{
+    font-weight: 900;
+    font-size: 35px;
+}
+.qwe{
+    /* background-color: blue; */
+    font-weight: 900;
+    font-size: 35px;
+}
